@@ -1,6 +1,7 @@
 # dating_app
 
-A new Flutter application.
+A new Flutter application
+So here is a simple UI for a dating app. you can add your picture location, address and age.
 
 ## Getting Started
 
